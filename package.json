@@ -1,0 +1,21 @@
+{
+  "name": "www.sabitalizade.com",
+  "version": "1.0.0",
+  "description": "sabitalizade portfoliyo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sabitalizadenode"
+  },
+  "author": "Sabit Alizade",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
+  }
+}
